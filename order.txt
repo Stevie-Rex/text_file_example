@@ -1,0 +1,2 @@
+You have ordered a tea.
+Your total order cost is: £2 
